@@ -32,7 +32,7 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.3",
-        "zendframework/zendframework": "2.2.*",
+        "zendframework/zendframework": "2.3.*",
         "doctrine/doctrine-orm-module": "0.8.*",
         "beberlei/DoctrineExtensions": "v0.1"
     }
